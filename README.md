@@ -1,6 +1,6 @@
 # Angular 6 short example
 
-![Alt text](app/assets/screenshot.png?raw=true "Screenshot")
+![Alt text](/screenshot.png?raw=true "Screenshot")
 
 This is a short example demostating some features of Angular 6.
 
